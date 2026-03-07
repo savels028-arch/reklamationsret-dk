@@ -28,6 +28,40 @@ body {
 a { color: var(--green); }
 
 /* ========================================
+   TOP NAV
+   ======================================== */
+.topnav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0.8rem 1.5rem;
+    background: var(--dark);
+    border-bottom: 1px solid rgba(255,255,255,0.06);
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    backdrop-filter: blur(12px);
+}
+.nav-logo {
+    font-weight: 800;
+    font-size: 1rem;
+    color: var(--white);
+    text-decoration: none;
+}
+.nav-links {
+    display: flex;
+    gap: 1.2rem;
+}
+.nav-links a {
+    color: var(--gray-400);
+    text-decoration: none;
+    font-size: 0.85rem;
+    font-weight: 500;
+    transition: color 0.2s;
+}
+.nav-links a:hover { color: var(--green); }
+
+/* ========================================
    HEADER / HERO (ATTENTION)
    ======================================== */
 header {
@@ -626,6 +660,9 @@ footer a:hover { text-decoration: underline; }
    RESPONSIVE
    ======================================== */
 @media (max-width: 800px) {
+    .topnav { padding: 0.6rem 1rem; }
+    .nav-links { gap: 0.7rem; }
+    .nav-links a { font-size: 0.78rem; }
     header {
         padding: 3rem 1rem 2.5rem;
     }
