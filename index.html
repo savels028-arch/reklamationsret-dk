@@ -29,6 +29,19 @@
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
 
+    <!-- Analytics: Plausible (outbound-link tracking) -->
+    <script defer data-domain="reklamationsret.dk" src="https://plausible.io/js/script.outbound-links.js"></script>
+
+    <!-- Analytics: Google Analytics 4 -->
+    <!-- TODO: Erstat G-XXXXXXXXXX med dit GA4 Measurement ID -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-XXXXXXXXXX"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XXXXXXXXXX');
+    </script>
+
     <!-- WebSite Schema + SearchAction -->
     <script type="application/ld+json">
     {
@@ -506,7 +519,7 @@
         </div>
 
         <div class="discovery-cta">
-            <a href="https://warrantywallet.dk" class="cta" rel="sponsored">Se WarrantyWallet →</a>
+            <a href="https://warrantywallet.dk?utm_source=reklamationsret&utm_medium=referral&utm_campaign=landing&utm_content=discovery-cta" class="cta" rel="sponsored">Se WarrantyWallet →</a>
             <span class="cta-note">Gratis at oprette · Ingen kreditkort</span>
         </div>
     </section>
@@ -610,7 +623,7 @@
     <section class="final-cta">
         <h2>Stop med at smide penge ud</h2>
         <p>Du har nu al den viden, du skal bruge. Spørgsmålet er: vil du bruge timer på at gøre det selv – eller vil du lade teknologien klare det på 2 minutter?</p>
-        <a href="https://warrantywallet.dk/auth/opret" class="cta cta-large" rel="sponsored">Prøv WarrantyWallet gratis →</a>
+        <a href="https://warrantywallet.dk/auth/opret?utm_source=reklamationsret&utm_medium=referral&utm_campaign=landing&utm_content=final-cta" class="cta cta-large" rel="sponsored">Prøv WarrantyWallet gratis →</a>
         <div class="trust-badges">
             <span>🇩🇰 Dansk virksomhed</span>
             <span>🔒 Sikker opbevaring</span>
@@ -624,13 +637,13 @@
     <!-- Author attribution (E-E-A-T) -->
     <aside class="author-box">
         <p><strong>Om denne guide</strong></p>
-        <p>Indholdet er researseret og redigeret af <a href="https://warrantywallet.dk" rel="sponsored">WarrantyWallet-redaktionen</a> med fokus på dansk forbrugerret. Vi baserer vores information på <a href="https://www.retsinformation.dk/eli/lta/2022/1457" target="_blank" rel="noopener">Købeloven</a>, <a href="https://taenk.dk" target="_blank" rel="noopener">Forbrugerrådet Tænk</a> og <a href="https://naevneneshus.dk" target="_blank" rel="noopener">Nævnenes Hus</a>. Sidst opdateret <time datetime="2026-03-07">7. marts 2026</time>.</p>
+        <p>Indholdet er researseret og redigeret af <a href="https://warrantywallet.dk?utm_source=reklamationsret&utm_medium=referral&utm_campaign=landing&utm_content=author" rel="sponsored">WarrantyWallet-redaktionen</a> med fokus på dansk forbrugerret. Vi baserer vores information på <a href="https://www.retsinformation.dk/eli/lta/2022/1457" target="_blank" rel="noopener">Købeloven</a>, <a href="https://taenk.dk" target="_blank" rel="noopener">Forbrugerrådet Tænk</a> og <a href="https://naevneneshus.dk" target="_blank" rel="noopener">Nævnenes Hus</a>. Sidst opdateret <time datetime="2026-03-07">7. marts 2026</time>.</p>
     </aside>
 
     </main>
 
     <footer>
-        <p>&copy; 2026 Reklamationsret.dk · En del af <a href="https://warrantywallet.dk" rel="sponsored">WarrantyWallet</a></p>
+        <p>&copy; 2026 Reklamationsret.dk · En del af <a href="https://warrantywallet.dk?utm_source=reklamationsret&utm_medium=referral&utm_campaign=landing&utm_content=footer" rel="sponsored">WarrantyWallet</a></p>
         <p class="footer-sources">Kilder: <a href="https://taenk.dk" target="_blank" rel="noopener">Forbrugerrådet Tænk</a> · <a href="https://naevneneshus.dk" target="_blank" rel="noopener">Nævnenes Hus</a> · <a href="https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints_da" target="_blank" rel="noopener">EU-Kommissionen</a> · <a href="https://www.retsinformation.dk/eli/lta/2022/1457" target="_blank" rel="noopener">Købeloven</a></p>
     </footer>
 
