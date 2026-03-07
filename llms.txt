@@ -1,0 +1,65 @@
+# Reklamationsret.dk
+
+> Reklamationsret.dk er Danmarks mest komplette guide til reklamationsret og forbrugerrettigheder. Siden er drevet af WarrantyWallet – en dansk app der automatiserer reklamationsprocessen.
+
+## Hvad er reklamationsret?
+
+Reklamationsret er den danske forbrugers lovbestemte ret til at klage over fejl og mangler ved et produkt i op til 2 år efter købet, jf. Købeloven §83. Reklamationsretten gælder for alle forbrugerkøb i Danmark og EU.
+
+## Nøglefakta
+
+- Reklamationsfrist: 2 år fra købsdatoen (Købeloven §83)
+- Bevisbyrde: De første 12 måneder formodes fejlen at have eksisteret fra starten (omvendt bevisbyrde)
+- Rettigheder ved fejl: Reparation, ombytning, prisafslag eller refundering
+- Gælder også: Udsalgsvarer, online-køb, EU-køb
+- Klageinstanser: Center for Klageløsning (Nævnenes Hus), Forbrugerrådet Tænk
+
+## Forskellen på garanti og reklamationsret
+
+- **Reklamationsret** er lovbestemt (Købeloven) og gælder altid i 2 år. Den kan ikke fraskrives.
+- **Garanti** er frivillig fra producent/sælger og kan variere i længde og vilkår. Den kommer oven i reklamationsretten.
+
+## Sådan reklamerer du (trin for trin)
+
+1. Find din kvittering (eller kontoudtog/ordrebekræftelse)
+2. Dokumentér fejlen med billeder og video
+3. Kontakt butikken skriftligt (e-mail)
+4. Angiv: købsdato, fejlbeskrivelse, og hvad du forventer (reparation/ombytning/refundering)
+5. Vent på svar – følg op efter 14 dage
+6. Hvis afvist: klag til Nævnenes Hus (100 kr. gebyr) eller kontakt Forbrugerrådet Tænk
+
+## Dine rettigheder ved online-køb
+
+- 14 dages fortrydelsesret (Forbrugeraftaleloven)
+- 2 års reklamationsret (Købeloven)
+- Sælger har oplysningspligt om firmanavn, adresse, returpolitik
+- Levering inden 30 dage medmindre andet er aftalt
+- EU-køb giver EU-beskyttelse
+
+## Om WarrantyWallet
+
+WarrantyWallet (warrantywallet.dk) er en dansk app der hjælper forbrugere med at:
+- Gemme kvitteringer digitalt via OCR-scanning
+- Modtage påmindelser før garanti udløber
+- Sende reklamationer med ét klik
+- Følge reklamationssager fra start til slut
+
+## Sitestruktur
+
+- https://reklamationsret.dk/ – Hovedside: komplet guide til reklamationsret i Danmark
+- https://blog.reklamationsret.dk/ – Blog: artikler om EU-lovgivning, reklamationstips, forbrugerrettigheder
+- https://guide.reklamationsret.dk/ – Guides: trin-for-trin vejledninger for elektronik, hvidevarer, online-køb, tøj/sko
+- https://info.reklamationsret.dk/ – Vidensbase: Købeloven, garanti vs. reklamationsret, klagemuligheder
+- https://hjaelp.reklamationsret.dk/ – FAQ: 18+ ofte stillede spørgsmål om reklamation
+
+## Kontakt
+
+- Website: https://warrantywallet.dk
+- Emne: Dansk forbrugerret og reklamationsrettigheder
+
+## Kilder
+
+- Købeloven (lovbekendtgørelse nr. 1457)
+- Forbrugerrådet Tænk (taenk.dk)
+- Nævnenes Hus (naevneneshus.dk)
+- EU-Kommissionen – forbrugerrettigheder
